@@ -24,7 +24,8 @@ O objetivo desse projeto foi apresentar o aplicativo Serviço de Emergência e A
 - `HTML`
 - `CSS`
 
-# :woman: Autores
+# :woman: Autoria
 
 | [<img src="https://i.imgur.com/OO9DSbF.jpg" width=115><br><sub>Lívia Caroline</sub>](https://github.com/livinha11) |
 | :---: |
+# 🧑‍🤝‍🧑 Outros Autores: Arthur Brasil, Matheus Gonçalves, Nathan Rodrigues, Sophia Almeida e Raphaela Camile.
